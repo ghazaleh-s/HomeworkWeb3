@@ -1,0 +1,25 @@
+body{
+    background-color: darkgray;
+}
+.game{
+    width: 100%;
+    float: left;
+}
+.box{
+    
+    float: left;
+}
+.box1,.box2,.box3{
+    width: 33.33333%;
+    text-align: center;
+    padding-top: 40px;
+    float: left;
+}
+.fin{
+    width: 100%;
+    text-align: center;
+    color: crimson;
+    padding-top: 100px;
+    margin-top: 100px;;
+
+}
